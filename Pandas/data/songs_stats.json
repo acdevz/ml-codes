@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Shape of You",
+        "album": "÷ (Divide)",
+        "release_year": 2017,
+        "duration": "3:53",
+        "genre": "Pop",
+        "streams": 2800000000
+    },
+    {
+        "title": "Perfect",
+        "album": "÷ (Divide)",
+        "release_year": 2017,
+        "duration": "4:23",
+        "genre": "Pop",
+        "streams": 2000000000
+    },
+    {
+        "title": "Thinking Out Loud",
+        "album": "x (Multiply)",
+        "release_year": 2014,
+        "duration": "4:41",
+        "genre": "Pop",
+        "streams": 1800000000
+    },
+    {
+        "title": "Castle on the Hill",
+        "album": "÷ (Divide)",
+        "release_year": 2017,
+        "duration": "4:21",
+        "genre": "Pop Rock",
+        "streams": 1000000000
+    },
+    {
+        "title": "Photograph",
+        "album": "x (Multiply)",
+        "release_year": 2014,
+        "duration": "4:19",
+        "genre": "Pop",
+        "streams": 1200000000
+    }
+]
