@@ -5,7 +5,9 @@ df = pd.read_csv('X:\\__codes__\\ML\\Pandas\\data\\songs_stats.csv');
 # print(df)
 
 """ From JSON """
-# df = pd.read_json('X:\\__codes__\\Python\\Pandas\\data\\songs_stats.json');
+# import json
+# json_obj = json('X:\\__codes__\\Python\\Pandas\\data\\songs_stats.json')
+# df = pd.read_json(json_obj);
 # print(df)
 
 """ From Dictionary """
